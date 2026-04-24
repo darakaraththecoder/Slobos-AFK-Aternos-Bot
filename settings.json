@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "huron.aternos.host:48649",
+    "ip": "huron.aternos.host",
     "port": 48649,
     "version": "1.21.1",
     "try-creative": false
