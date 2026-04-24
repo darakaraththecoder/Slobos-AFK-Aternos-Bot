@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinisoGaming.aternos.me",
+    "ip": "huron.aternos.host:48649",
     "port": 48649,
     "version": "1.21.1",
     "try-creative": false
