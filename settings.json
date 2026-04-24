@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MinisoGaming.aternos.me:48649",
+    "port": 48649
+,
     "version": "",
     "try-creative": false
   },
