@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinisoGaming.aternos.me",
+    "ip": "MinisoGaming.aternos.me:48649",
     "port": 48649,
     "version": "1.21.1",
     "try-creative": false
